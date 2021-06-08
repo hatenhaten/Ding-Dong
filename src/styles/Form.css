@@ -48,7 +48,10 @@
     align-items: center;
     justify-content: center;
     background-color: #8bdbfe;
+<<<<<<< HEAD
     color: #444341;
+=======
+>>>>>>> 84f14ecd43f2ec2466607f0b8b6db356a74c4d1a
     border-style: none;
     margin-top: 20px;
     font-weight: bold;
@@ -57,11 +60,14 @@
     cursor: pointer;
 }
 
+<<<<<<< HEAD
 .form__button:hover {
     background-color: #fabadd;
     color: black;
 }
 
+=======
+>>>>>>> 84f14ecd43f2ec2466607f0b8b6db356a74c4d1a
 .form__input {
     height: 20px;
     text-align: center;
